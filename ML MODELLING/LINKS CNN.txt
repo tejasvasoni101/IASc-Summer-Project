@@ -1,0 +1,9 @@
+https://www.kaggle.com/alexanderlazarev/simple-keras-1d-cnn-features-split
+
+https://www.youtube.com/watch?v=nMkqWxMjWzg&ab_channel=PyData
+
+https://machinelearningmastery.com/how-to-develop-convolutional-neural-network-models-for-time-series-forecasting/
+
+https://colab.research.google.com/drive/1zjh0tUPYJYgJJunpLC9fW5uf--O0LKeZ?usp=sharing#scrollTo=mRklxK5s388r
+
+https://www.youtube.com/watch?v=JzoIHdkFcQU&ab_channel=MuratKarakayaAkademi
