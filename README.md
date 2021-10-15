@@ -1,4 +1,5 @@
 # IASc-Summer-Project
+Project done under INDIAN ACADEMY OF SCIENCES, SRFP Programme
 
 Performed study on a 1-D Grating structure, whose MATLAB simulated (RCWA simulation) transmission data was analysed and in turn
 used to make a Machine Learning Regression Model that can predict the refractive index of an analyte material.
